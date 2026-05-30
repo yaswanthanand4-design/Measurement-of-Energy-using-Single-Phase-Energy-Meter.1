@@ -48,11 +48,12 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Output Waveform
 
+<img width="755" height="243" alt="image" src="https://github.com/user-attachments/assets/1df4362a-9762-4569-b99d-9424e0aab073" />
 
 
 
 ## Result
-
+The electrical energy consumed by the single-phase load was measured successfully using the Single-phase Energy Meter
 
 
 
